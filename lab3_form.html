@@ -21,6 +21,24 @@
 			<textarea id="alamat" name="alamat" cols="20" rows="3"></textarea>
 		</p>
 		<p>
+			<label>Agama</label>
+			<select name="ddl">
+				<option value="pilih">Pilih</option>
+				<option value="islam">Islam</option>
+				<option value="katolik">Katolik</option>
+				<option value="hindu">Hindu</option>
+			</select>
+		</p>
+		<p>
+			<label>Warna Favorit</label>
+				<select id="warna" name="warna[]" multiple="multiple" style="width: 150px">
+					<option value="selected">Select a color</option>
+					<option value="merah">Merah</option>
+					<option value="biru">Biru</option>
+					<option value="hijau">Hijau</option>
+				</select>
+		</p>
+		<p>
 			<label>Jenis Kelamin</label>
 			<input id="jk_l" type="radio" name="kelamin" value="L" /><label for="jk-l">Laki-Laki</label>
 			<input id="jk_p" type="radio" name="kelamin" value="P" /><label for="jk-p">Perempuan</label>
