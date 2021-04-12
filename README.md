@@ -1,7 +1,15 @@
 # Lab3web
 ## Pertanyaan dan Tugas
 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
-
+## Jawaban
+- Dengan menggunakan form sederhana yang sudah ada saya menambahkan beberapa atribut untuk membuat dropdown menu
+![soal1](https://github.com/kannahs/Lab3web/blob/master/Image/soal1.PNG?raw=true)
+- ini hasil nya :
+![outsoal1](https://github.com/kannahs/Lab3web/blob/master/Image/outsoal1.png?raw=true)
+- Dan untuk multiple select kurang lebih seperti ini,kita tinggal memilih warna favorit masing-masing apabila lebih dari satu warna. Maka pilih warna lagi bersamaan dengan menekan +CTRL agar warna yang dipilih bisa lebih dari satu
+![soal1.1](https://github.com/kannahs/Lab3web/blob/master/Image/soal1.1.PNG?raw=true)
+- Kurang lebih seperti ini hasilnya :
+![outsoal1.1](https://github.com/kannahs/Lab3web/blob/master/Image/outsoal1.1.PNG?raw=true)
 # Praktikum
 1. Membuat order list
 - Setelah membuat file html,kemudian tambahkan kode berikut untuk membuat ordered list
