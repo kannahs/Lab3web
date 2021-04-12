@@ -12,7 +12,7 @@
 - langkah selanjutnya kita tambahkan kode di seperti di bawah ini untuk membuat unordered list
 ![kode2](https://github.com/kannahs/Lab3web/blob/master/Image/kode2.PNG?raw=true)
 - Tampilan nya :
-![out2](https://github.com/kannahs/Lab3web/blob/master/Image/out2.PNG?raw=true)
+![out2](https://github.com/kannahs/Lab3web/blob/master/Image/fixout2.PNG?raw=true)
 3. Membuat description list
 - Lalu kita buat description list dengan menambahkan kode seperti berikut
 ![kode3](https://github.com/kannahs/Lab3web/blob/master/Image/kode3.PNG?raw=true)
